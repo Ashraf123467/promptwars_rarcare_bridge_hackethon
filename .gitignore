@@ -1,27 +1,80 @@
-# Virtual environment
-.venv/
-venv/
-ENV/
-
-# Python bytecode & caches
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+*.py[codz]
 *$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.zip
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+*.lcov
+.hypothesis/
 .pytest_cache/
+cover/
 
 # Databases & local persistent storage
 *.db
 *.sqlite
 *.sqlite3
+db.sqlite3
+db.sqlite3-journal
 
-# Packaging & zip files
-*.zip
+# Environments
+.env
+.envrc
+.venv/
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# OS and IDE files
-.vscode/
+# IDE & OS settings
 .idea/
+.vscode/
 .DS_Store
 Thumbs.db
+tempCodeRunnerFile.py
 
-# Environment variables
-.env
+# Streamlit
+.streamlit/secrets.toml
