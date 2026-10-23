@@ -1,0 +1,1150 @@
+{
+  "SMP-0001": {
+    "sample_id": "SMP-0001",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0002": {
+    "sample_id": "SMP-0002",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0003": {
+    "sample_id": "SMP-0003",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0004": {
+    "sample_id": "SMP-0004",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0005": {
+    "sample_id": "SMP-0005",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0006": {
+    "sample_id": "SMP-0006",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0007": {
+    "sample_id": "SMP-0007",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0008": {
+    "sample_id": "SMP-0008",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0009": {
+    "sample_id": "SMP-0009",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0010": {
+    "sample_id": "SMP-0010",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0011": {
+    "sample_id": "SMP-0011",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0012": {
+    "sample_id": "SMP-0012",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0013": {
+    "sample_id": "SMP-0013",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0014": {
+    "sample_id": "SMP-0014",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0015": {
+    "sample_id": "SMP-0015",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0016": {
+    "sample_id": "SMP-0016",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0017": {
+    "sample_id": "SMP-0017",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0018": {
+    "sample_id": "SMP-0018",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0019": {
+    "sample_id": "SMP-0019",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0020": {
+    "sample_id": "SMP-0020",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0021": {
+    "sample_id": "SMP-0021",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0022": {
+    "sample_id": "SMP-0022",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0023": {
+    "sample_id": "SMP-0023",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0024": {
+    "sample_id": "SMP-0024",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0025": {
+    "sample_id": "SMP-0025",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0026": {
+    "sample_id": "SMP-0026",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0027": {
+    "sample_id": "SMP-0027",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0028": {
+    "sample_id": "SMP-0028",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0029": {
+    "sample_id": "SMP-0029",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0030": {
+    "sample_id": "SMP-0030",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0031": {
+    "sample_id": "SMP-0031",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0032": {
+    "sample_id": "SMP-0032",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0033": {
+    "sample_id": "SMP-0033",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0034": {
+    "sample_id": "SMP-0034",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0035": {
+    "sample_id": "SMP-0035",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0036": {
+    "sample_id": "SMP-0036",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0037": {
+    "sample_id": "SMP-0037",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0038": {
+    "sample_id": "SMP-0038",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0039": {
+    "sample_id": "SMP-0039",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0040": {
+    "sample_id": "SMP-0040",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0041": {
+    "sample_id": "SMP-0041",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0042": {
+    "sample_id": "SMP-0042",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0043": {
+    "sample_id": "SMP-0043",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0044": {
+    "sample_id": "SMP-0044",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0045": {
+    "sample_id": "SMP-0045",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0046": {
+    "sample_id": "SMP-0046",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0047": {
+    "sample_id": "SMP-0047",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0048": {
+    "sample_id": "SMP-0048",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0049": {
+    "sample_id": "SMP-0049",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0050": {
+    "sample_id": "SMP-0050",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0051": {
+    "sample_id": "SMP-0051",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0052": {
+    "sample_id": "SMP-0052",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0053": {
+    "sample_id": "SMP-0053",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0054": {
+    "sample_id": "SMP-0054",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0055": {
+    "sample_id": "SMP-0055",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0056": {
+    "sample_id": "SMP-0056",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0057": {
+    "sample_id": "SMP-0057",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0058": {
+    "sample_id": "SMP-0058",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0059": {
+    "sample_id": "SMP-0059",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0060": {
+    "sample_id": "SMP-0060",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0061": {
+    "sample_id": "SMP-0061",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0062": {
+    "sample_id": "SMP-0062",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0063": {
+    "sample_id": "SMP-0063",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0064": {
+    "sample_id": "SMP-0064",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0065": {
+    "sample_id": "SMP-0065",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0066": {
+    "sample_id": "SMP-0066",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0067": {
+    "sample_id": "SMP-0067",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0068": {
+    "sample_id": "SMP-0068",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0069": {
+    "sample_id": "SMP-0069",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0070": {
+    "sample_id": "SMP-0070",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0071": {
+    "sample_id": "SMP-0071",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0072": {
+    "sample_id": "SMP-0072",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0073": {
+    "sample_id": "SMP-0073",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0074": {
+    "sample_id": "SMP-0074",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0075": {
+    "sample_id": "SMP-0075",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0076": {
+    "sample_id": "SMP-0076",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0077": {
+    "sample_id": "SMP-0077",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0078": {
+    "sample_id": "SMP-0078",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0079": {
+    "sample_id": "SMP-0079",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0080": {
+    "sample_id": "SMP-0080",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0081": {
+    "sample_id": "SMP-0081",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0082": {
+    "sample_id": "SMP-0082",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0083": {
+    "sample_id": "SMP-0083",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0084": {
+    "sample_id": "SMP-0084",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0085": {
+    "sample_id": "SMP-0085",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0086": {
+    "sample_id": "SMP-0086",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0087": {
+    "sample_id": "SMP-0087",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0088": {
+    "sample_id": "SMP-0088",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0089": {
+    "sample_id": "SMP-0089",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0090": {
+    "sample_id": "SMP-0090",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0091": {
+    "sample_id": "SMP-0091",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0092": {
+    "sample_id": "SMP-0092",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0093": {
+    "sample_id": "SMP-0093",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0094": {
+    "sample_id": "SMP-0094",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0095": {
+    "sample_id": "SMP-0095",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0096": {
+    "sample_id": "SMP-0096",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0097": {
+    "sample_id": "SMP-0097",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0098": {
+    "sample_id": "SMP-0098",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0099": {
+    "sample_id": "SMP-0099",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0100": {
+    "sample_id": "SMP-0100",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0101": {
+    "sample_id": "SMP-0101",
+    "has_anomaly": false,
+    "anomaly_types": [],
+    "expected_findings": 0,
+    "description": "Standard nominal diagnostic workflow."
+  },
+  "SMP-0102": {
+    "sample_id": "SMP-0102",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0103": {
+    "sample_id": "SMP-0103",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0104": {
+    "sample_id": "SMP-0104",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0105": {
+    "sample_id": "SMP-0105",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0106": {
+    "sample_id": "SMP-0106",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0107": {
+    "sample_id": "SMP-0107",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0108": {
+    "sample_id": "SMP-0108",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0109": {
+    "sample_id": "SMP-0109",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0110": {
+    "sample_id": "SMP-0110",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0111": {
+    "sample_id": "SMP-0111",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0112": {
+    "sample_id": "SMP-0112",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0113": {
+    "sample_id": "SMP-0113",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0114": {
+    "sample_id": "SMP-0114",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0115": {
+    "sample_id": "SMP-0115",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0116": {
+    "sample_id": "SMP-0116",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0117": {
+    "sample_id": "SMP-0117",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0118": {
+    "sample_id": "SMP-0118",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0119": {
+    "sample_id": "SMP-0119",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0120": {
+    "sample_id": "SMP-0120",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0121": {
+    "sample_id": "SMP-0121",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0122": {
+    "sample_id": "SMP-0122",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0123": {
+    "sample_id": "SMP-0123",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0124": {
+    "sample_id": "SMP-0124",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0125": {
+    "sample_id": "SMP-0125",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0126": {
+    "sample_id": "SMP-0126",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0127": {
+    "sample_id": "SMP-0127",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0128": {
+    "sample_id": "SMP-0128",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0129": {
+    "sample_id": "SMP-0129",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0130": {
+    "sample_id": "SMP-0130",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0131": {
+    "sample_id": "SMP-0131",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0132": {
+    "sample_id": "SMP-0132",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0133": {
+    "sample_id": "SMP-0133",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0134": {
+    "sample_id": "SMP-0134",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0135": {
+    "sample_id": "SMP-0135",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0136": {
+    "sample_id": "SMP-0136",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0137": {
+    "sample_id": "SMP-0137",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0138": {
+    "sample_id": "SMP-0138",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0139": {
+    "sample_id": "SMP-0139",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0140": {
+    "sample_id": "SMP-0140",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0141": {
+    "sample_id": "SMP-0141",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0142": {
+    "sample_id": "SMP-0142",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0143": {
+    "sample_id": "SMP-0143",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0144": {
+    "sample_id": "SMP-0144",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "INVALID_SEQUENCE"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: INVALID_SEQUENCE"
+  },
+  "SMP-0145": {
+    "sample_id": "SMP-0145",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "SAMPLE_ID_MISMATCH"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: SAMPLE_ID_MISMATCH"
+  },
+  "SMP-0146": {
+    "sample_id": "SMP-0146",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  },
+  "SMP-0147": {
+    "sample_id": "SMP-0147",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0148": {
+    "sample_id": "SMP-0148",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "DUPLICATE_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: DUPLICATE_EVENT"
+  },
+  "SMP-0149": {
+    "sample_id": "SMP-0149",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "TIMESTAMP_CONFLICT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: TIMESTAMP_CONFLICT"
+  },
+  "SMP-0150": {
+    "sample_id": "SMP-0150",
+    "has_anomaly": true,
+    "anomaly_types": [
+      "MISSING_EVENT"
+    ],
+    "expected_findings": 1,
+    "description": "Engineered anomaly: MISSING_EVENT"
+  }
+}
