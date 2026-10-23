@@ -407,7 +407,7 @@ elif nav_choice == "✍️ Human Review & Approval Gate":
     )
 
     all_findings = db.get_all_findings()
-    pending_findings = [f for f in all_findings if f.status == "PENDING_REVIEW"]
+    pending_findings = [f for f in all_findings if getattr(f, "status", "PENDING_REVIEW") == "PENDING_REVIEW"]
 
     if not pending_findings:
         st.success("All discrepancy findings have been reviewed and adjudicated!")

@@ -47,6 +47,7 @@ def test_db_finding_and_audit_trail(db):
     findings = db.get_all_findings()
     assert len(findings) == 1
     assert findings[0].finding_id == "F-1"
+    assert findings[0].status == "PENDING_REVIEW"
 
     # Append audit entry
     entry = AuditEntry(

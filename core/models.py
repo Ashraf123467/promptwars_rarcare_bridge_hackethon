@@ -64,6 +64,7 @@ class Finding(BaseModel):
     description: str
     suggested_action: str
     rule_name: str
+    status: str = "PENDING_REVIEW"
 
 
 class DecisionAction(str, Enum):

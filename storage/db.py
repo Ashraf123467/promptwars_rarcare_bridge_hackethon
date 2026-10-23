@@ -206,7 +206,7 @@ class Database:
                     f.description,
                     f.suggested_action,
                     f.rule_name,
-                    "PENDING_REVIEW",
+                    getattr(f, "status", "PENDING_REVIEW") or "PENDING_REVIEW",
                 )
                 for f in findings
             ]
@@ -237,6 +237,7 @@ class Database:
                     description=r["description"],
                     suggested_action=r["suggested_action"],
                     rule_name=r["rule_name"],
+                    status=r["status"] if "status" in r.keys() else "PENDING_REVIEW",
                 )
                 for r in rows
             ]
@@ -257,6 +258,7 @@ class Database:
                     description=r["description"],
                     suggested_action=r["suggested_action"],
                     rule_name=r["rule_name"],
+                    status=r["status"] if "status" in r.keys() else "PENDING_REVIEW",
                 )
                 for r in rows
             ]
